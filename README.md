@@ -1,3 +1,4 @@
+
 # Challenge ONE | Back End | Alura Forum 
 
 <p align="center" >
@@ -18,11 +19,10 @@
 
 ### Tecnologias utilizadas:
 
-- [Eclipse](https://www.eclipse.org/)
+- [IntelliJ IDEA](https://www.eclipse.org/)
 - [MySql](https://www.mysql.com/)
 - [Java](https://www.java.com/pt-BR/)
-- [Spring Security](https://start.spring.io/)
-- [Token JWT](https://jwt.io/)
+
 
 
 
@@ -61,44 +61,6 @@
 
    2. A segunda opção é baixar o código em um pacote **"zipado"** e extrair a pasta para o seu computador.
 
-## 📝 Eclipse
-
-### Como importar o meu projeto no Eclipse?
-
-1. Uma vez dentro do Editor do lado esquerdo, clique em *File* que está no menu na parte superior, escolha a opção *Open Projects from File System*.
-
-   <p align="center" >
-     <img width="400" heigth="400" src="https://user-images.githubusercontent.com/101413385/173164237-1db32d79-2b35-433f-817c-ec3fa30899fc.png">
-</p>
-
-   Em seguida, clique em *Directory* e localize o diretório do projeto "clonado" ou "extraído" em seu computador. Clique em *Finish* para concluir a importação.
-
-   <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683881-aa94b361-d63e-4d78-b5db-d5215b350efa.png">
-</p>
-
-2. A segunda forma de importar está em *File* na opção *Import*. Ou através do **Project Explorer**, clique no campo vazio com o botão direito do mouse e escolha a opção *Import*.
-
-   <p align="center" >
-     <img width="400" heigth="400" src="https://user-images.githubusercontent.com/101413385/173111357-2ec928ac-5a3d-4f7c-ba84-8906d84bfd08.png">
-</p>
-
-<p align="center" >
-     <img width="400" heigth="400" src="https://user-images.githubusercontent.com/101413385/169431325-23a2e3cb-85a3-4298-8e60-64dfa58e2e6f.png">
-</p>
-
-   Se optar pelo **Import**, abrirá a janela correspondente, clique na opção *Existing Projects Into Workspace* e no botão *Next*.
-
-   <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169431890-27f40955-27d8-4b4d-82df-d3507f85de6c.png">
-</p>
-
-Em seguida, clique no botão <em>Browse</em> e busque o projeto no diretório local.
-
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683946-24a7a3c1-8170-4280-8047-5eb70cba7a9b.png">
-</p>
-   
 
 ## 🚧Como listar o meu projeto neste Challenge?
 
