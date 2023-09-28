@@ -19,7 +19,8 @@
 
 ### Tecnologias utilizadas:
 
-- [IntelliJ IDEA](https://www.eclipse.org/)
+- [IntelliJ IDEA]
+- [Insomnia]
 - [MySql](https://www.mysql.com/)
 - [Java](https://www.java.com/pt-BR/)
 
